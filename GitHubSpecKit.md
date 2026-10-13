@@ -47,4 +47,7 @@ specify init --here --force --integration
 ```
 
 
+## command list
+
+![commands](9.png)  
 
