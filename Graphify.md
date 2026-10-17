@@ -27,3 +27,21 @@ This allows an AI assistant to query the graoh abd trace relationships across th
 
 https://github.com/Graphify-Labs/graphify 
 
+
+## Installation
+
+```
+uv tool install graphifyy      # install the CLI (or: pipx install graphifyy)
+graphify install               # detects your assistant and registers the skill
+Then, in your AI assistant:
+
+/graphify .
+That's it. You get three files:
+
+graphify-out/
+├── graph.html       open in any browser: click nodes, filter, search
+├── GRAPH_REPORT.md  the highlights: key concepts, surprising connections, suggested questions
+└── graph.json       the full graph: query it anytime without re-reading your files
+
+```
+
