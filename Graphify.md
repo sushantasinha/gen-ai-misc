@@ -45,3 +45,11 @@ graphify-out/
 
 ```
 
+![Common Commands](10.png)  
+
+Post that we can run any prompt:
+
+``` 
+/graphify query "what connects auth to the database?"
+```
+
