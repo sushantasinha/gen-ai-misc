@@ -1,4 +1,4 @@
-#Graphify
+# Graphify
 
 Graphify is a tool that converts a code repo into a knowledge graph, so, AI coding assistants (Guthub Copilot, Claude code, etc) can understand relationships across codebase rather simply searching files.  
 
@@ -24,8 +24,6 @@ This allows an AI assistant to query the graoh abd trace relationships across th
 3. Faster RCA  
 4. Reduced toke usage: Since the agent queries the graph instead of repeatedly reading large portions of source files, teams observed potential token savings abd reduced context loading requirements.   
 5. Better result for large repo  
-  
-  
 
-
+https://github.com/Graphify-Labs/graphify 
 
